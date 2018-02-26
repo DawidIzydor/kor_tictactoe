@@ -28,7 +28,7 @@ public class SquaresScr : MonoBehaviour {
     {
 
         int i;
-       
+
         SquareBehvs = new SquareBehavior[SquaresObjs.Length];
 
         /*Textures = new Texture2D[3];
